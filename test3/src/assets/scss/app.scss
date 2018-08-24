@@ -1,0 +1,38 @@
+@import 'settings';
+@import 'foundation-emails';
+
+@import 'template/template';
+
+@font-face {
+    font-family: "avenir medium";
+    src: url("https://static.dealer.com/v9/media/fonts/avenir-medium/v1/webfont.eot?#iefix") format("embedded-opentype"),
+    url("https://static.dealer.com/v9/media/fonts/avenir-medium/v1/webfont.ttf") format("truetype"),
+    url("https://static.dealer.com/v9/media/fonts/avenir-medium/v1/webfont.woff") format("woff"),
+    url("https://static.dealer.com/v9/media/fonts/avenir-medium/v1/webfont.svg") format("svg");
+    font-style: normal;
+    font-weight: 800;
+  }
+
+  @font-face {
+    font-family: "avenir roman";
+    src: url("https://static.dealer.com/v9/media/fonts/avenir-roman/v1/webfont.eot?#iefix") format("embedded-opentype"),
+    url("https://static.dealer.com/v9/media/fonts/avenir-roman/v1/webfont.ttf") format("truetype"),
+    url("https://static.dealer.com/v9/media/fonts/avenir-roman/v1/webfont.woff") format("woff"),
+    url("https://static.dealer.com/v9/media/fonts/avenir-roman/v1/webfont.svg") format("svg");
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  @font-face {
+    font-family: "Land-RoverMed";
+    src: url("https://static.dealer.com/v9/media/fonts/land-rover-medium/v1/webfont.eot?#iefix") format("embedded-opentype"),
+    url("https://static.dealer.com/v9/media/fonts/land-rover-medium/v1/webfont.ttf") format("truetype"),
+    url("https://static.dealer.com/v9/media/fonts/land-rover-medium/v1/webfont.woff") format("woff"),
+    url("https://static.dealer.com/v9/media/fonts/land-rover-medium/v1/webfont.svg") format("svg");
+    font-style: normal;
+    font-weight: 800;
+  }
+
+  h4 {
+    font-style: italic;
+  }
